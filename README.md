@@ -12,7 +12,7 @@ Criar um CRUD MongoDB para um sistema simples de cadastros de filmes.
 
 #### Documentação API
 
-##### Endpoint: http://localhost:3000/filme
+##### Endpoint: http://localhost:3000/filmes
 
 | **ROTA**               | **DESCRIÇÃO**            |
 | ---------------------- | :----------------------- |
